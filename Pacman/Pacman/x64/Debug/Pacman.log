@@ -1,0 +1,14 @@
+﻿  MapTile.cpp
+C:\Users\sonit\Projects\Pac-man\Pacman\MapTile.cpp(32,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\sonit\Projects\Pac-man\Pacman\MapTile.cpp(32,29): warning C4244:         with
+C:\Users\sonit\Projects\Pac-man\Pacman\MapTile.cpp(32,29): warning C4244:         [
+C:\Users\sonit\Projects\Pac-man\Pacman\MapTile.cpp(32,29): warning C4244:             T=float
+C:\Users\sonit\Projects\Pac-man\Pacman\MapTile.cpp(32,29): warning C4244:         ]
+C:\Users\sonit\Projects\Pac-man\Pacman\MapTile.cpp(32,26): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\sonit\Projects\Pac-man\Pacman\MapTile.cpp(32,26): warning C4244:         with
+C:\Users\sonit\Projects\Pac-man\Pacman\MapTile.cpp(32,26): warning C4244:         [
+C:\Users\sonit\Projects\Pac-man\Pacman\MapTile.cpp(32,26): warning C4244:             T=float
+C:\Users\sonit\Projects\Pac-man\Pacman\MapTile.cpp(32,26): warning C4244:         ]
+C:\Users\sonit\Projects\Pac-man\Pacman\MapTile.cpp(33,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sonit\Projects\Pac-man\Pacman\MapTile.cpp(33,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Pacman.vcxproj -> C:\Users\sonit\Projects\Pac-man\Pacman\x64\Debug\Pacman.exe

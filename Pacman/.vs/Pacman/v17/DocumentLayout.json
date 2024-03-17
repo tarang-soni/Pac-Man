@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\MapTile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:MapTile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\MapGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:MapGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\MapGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:MapGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\GameState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:GameState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\GameState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:GameState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\MapTile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:MapTile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\GameStateManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:GameStateManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\GameStateManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:GameStateManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Pacman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:Pacman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Utilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:Utilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Enums.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:Enums.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Actor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:Actor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\MenuState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:MenuState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\BaseState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:BaseState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\MenuState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:MenuState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Actor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:Actor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:Animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\MathLib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D3AA3A-0716-40B1-97AC-4116E3DE056F}|Pacman.vcxproj|solutionrelative:MathLib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Enums.h",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Enums.h",
+              "RelativeDocumentMoniker": "Enums.h",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Enums.h",
+              "RelativeToolTip": "Enums.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-14T18:18:17.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MapTile.cpp",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\MapTile.cpp",
+              "RelativeDocumentMoniker": "MapTile.cpp",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\MapTile.cpp",
+              "RelativeToolTip": "MapTile.cpp",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-14T17:45:49.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapTile.h",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\MapTile.h",
+              "RelativeDocumentMoniker": "MapTile.h",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\MapTile.h",
+              "RelativeToolTip": "MapTile.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-14T17:17:21.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MapGenerator.cpp",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\MapGenerator.cpp",
+              "RelativeDocumentMoniker": "MapGenerator.cpp",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\MapGenerator.cpp",
+              "RelativeToolTip": "MapGenerator.cpp",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwBwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-14T17:10:30.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MapGenerator.h",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\MapGenerator.h",
+              "RelativeDocumentMoniker": "MapGenerator.h",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\MapGenerator.h",
+              "RelativeToolTip": "MapGenerator.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-14T17:10:25.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameState.cpp",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\GameState.cpp",
+              "RelativeDocumentMoniker": "GameState.cpp",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\GameState.cpp",
+              "RelativeToolTip": "GameState.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-12T19:38:57.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Object.h",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Object.h",
+              "RelativeDocumentMoniker": "Object.h",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Object.h",
+              "RelativeToolTip": "Object.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-13T17:38:21.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameState.h",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\GameState.h",
+              "RelativeDocumentMoniker": "GameState.h",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\GameState.h",
+              "RelativeToolTip": "GameState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-12T19:38:49.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Utilities.h",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Utilities.h",
+              "RelativeDocumentMoniker": "Utilities.h",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Utilities.h",
+              "RelativeToolTip": "Utilities.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-12T19:29:50.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GameManager.h",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\GameManager.h",
+              "RelativeDocumentMoniker": "GameManager.h",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\GameManager.h",
+              "RelativeToolTip": "GameManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-12T17:30:28.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameManager.cpp",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\GameManager.cpp",
+              "RelativeDocumentMoniker": "GameManager.cpp",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\GameManager.cpp",
+              "RelativeToolTip": "GameManager.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAAApwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-12T17:32:17.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Player.cpp",
+              "RelativeDocumentMoniker": "Player.cpp",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Player.cpp",
+              "RelativeToolTip": "Player.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T18:25:54.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Animation.cpp",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Animation.cpp",
+              "RelativeDocumentMoniker": "Animation.cpp",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Animation.cpp",
+              "RelativeToolTip": "Animation.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T18:06:09.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Actor.cpp",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Actor.cpp",
+              "RelativeDocumentMoniker": "Actor.cpp",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Actor.cpp",
+              "RelativeToolTip": "Actor.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T17:57:34.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseState.h",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\BaseState.h",
+              "RelativeDocumentMoniker": "BaseState.h",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\BaseState.h",
+              "RelativeToolTip": "BaseState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-12T18:03:54.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-13T18:21:54.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pacman.cpp",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Pacman.cpp",
+              "RelativeDocumentMoniker": "Pacman.cpp",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Pacman.cpp",
+              "RelativeToolTip": "Pacman.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-12T17:25:33.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MenuState.h",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\MenuState.h",
+              "RelativeDocumentMoniker": "MenuState.h",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\MenuState.h",
+              "RelativeToolTip": "MenuState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-12T18:21:41.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MenuState.cpp",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\MenuState.cpp",
+              "RelativeDocumentMoniker": "MenuState.cpp",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\MenuState.cpp",
+              "RelativeToolTip": "MenuState.cpp",
+              "ViewState": "AQIAABoAAAAAAAAAAAApwCgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-12T18:21:56.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameStateManager.cpp",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\GameStateManager.cpp",
+              "RelativeDocumentMoniker": "GameStateManager.cpp",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\GameStateManager.cpp",
+              "RelativeToolTip": "GameStateManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-12T18:08:24.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameStateManager.h",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\GameStateManager.h",
+              "RelativeDocumentMoniker": "GameStateManager.h",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\GameStateManager.h",
+              "RelativeToolTip": "GameStateManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-12T18:03:40.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Object.cpp",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Object.cpp",
+              "RelativeDocumentMoniker": "Object.cpp",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Object.cpp",
+              "RelativeToolTip": "Object.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T18:15:55.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Actor.h",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Actor.h",
+              "RelativeDocumentMoniker": "Actor.h",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Actor.h",
+              "RelativeToolTip": "Actor.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-13T17:57:08.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Animation.h",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Animation.h",
+              "RelativeDocumentMoniker": "Animation.h",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\Animation.h",
+              "RelativeToolTip": "Animation.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-13T18:02:49.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MathLib.h",
+              "DocumentMoniker": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\MathLib.h",
+              "RelativeDocumentMoniker": "MathLib.h",
+              "ToolTip": "C:\\Users\\sonit\\Projects\\Pac-man\\Pacman\\MathLib.h",
+              "RelativeToolTip": "MathLib.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-13T17:42:10.102Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
